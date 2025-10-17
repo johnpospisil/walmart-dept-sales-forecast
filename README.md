@@ -269,6 +269,11 @@ jupyter notebook department-performance-analysis.ipynb
 
 ## 📞 Contact & Collaboration
 
+📩 **Email**: [john@johnpospisil.com](mailto:john@johnpospisil.com)  
+🐦 **Twitter/X**: [@audiofreak7](https://x.com/audiofreak7)  
+🔗 **LinkedIn**: [John Pospisil](https://www.linkedin.com/in/johnpospisil/)  
+🌐 **Portfolio**: Advanced Customer Analytics & ML-Driven Revenue Optimization
+
 This analysis represents professional-grade data science work suitable for:
 
 - **Executive Presentations**: Strategic insights with clear business value
@@ -279,12 +284,6 @@ This analysis represents professional-grade data science work suitable for:
 **Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 **Analysis Completed**: October 2025
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
